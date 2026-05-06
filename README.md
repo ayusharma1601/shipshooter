@@ -1,5 +1,5 @@
 Ship Shooter
-A classic, fast-paced arcade shooter built with the Godot Engine. Take control of your ship, dodge obstacles, and blast through enemies to achieve the high score.
+A classic desktop based game, arcade shooter built with the Godot Engine. Take control of your ship and blast through enemies.
 
 🕹️ How to Play Online
 
