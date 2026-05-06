@@ -2,9 +2,10 @@ Ship Shooter
 A classic, fast-paced arcade shooter built with the Godot Engine. Take control of your ship, dodge obstacles, and blast through enemies to achieve the high score.
 
 🕹️ How to Play Online
+
 You can play the game directly in your browser without downloading anything:
 
-👉 Play Ship Shooter Online
+👉 **[Play Ship Shooter Online](https://ayusharma1601.github.io/shipshooter/)**
 
 🎮 Controls
 Left Arrow: Move ship to the left
